@@ -1,9 +1,6 @@
-## Hi there 👋
+**## Hi there 👋**
 
-<!--
-**Ricardo2357/Ricardo2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm learning about programming, I'm Brazilian and I like video games. ![](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
