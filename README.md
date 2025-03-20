@@ -1,7 +1,6 @@
-**## Hi there 👋**
+# Hi there 👋
 
-I'm learning about programming, I'm Brazilian and I like video games. ![](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-
+**##I'm learning about programming, I'm Brazilian 🇧🇷 and I like video games 🎮.**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
